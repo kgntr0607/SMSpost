@@ -1,4 +1,4 @@
-# SMSpost
+# SMSpost v1.2 Beta
 
 Android Cep Telefonu (USB Modem) İle Toplu/Tekli SMS gönderme programı :
 
