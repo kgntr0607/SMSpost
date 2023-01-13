@@ -18,7 +18,7 @@ Projenin Amacı :
  
  Test yapılan ve başarı ile çalışan Cihazlar :
  
- Vestel Venüs 5040
- Samsung A5
- Samsung S5
- Samung A50 (2019 model) (Bir başka A50 ile çoklu gönderimde olumlu sonuç alınamadı)
+ Vestel Venüs 5040 / 
+ Samsung A5 / 
+ Samsung S5 / 
+ Samsung A50 (2019 model) (Bir başka A50 ile çoklu gönderimde olumlu sonuç alınamadı)
