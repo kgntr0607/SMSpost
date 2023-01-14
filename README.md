@@ -6,7 +6,7 @@ Akıllı Cep Telefonu (USB Modem) İle Toplu/Tekli SMS gönderme programı :
 
 Projenin Amacı :
 
- - Toplu SMS mesajı göndermek için Akıllı Telefonların modem olarak kullanılmasını sağlamak, EXCEL'in yeteneklerini kullanarak otomatik SMS Mesaj listeleri oluşturmak 
+ - Toplu SMS mesajı göndermek için GSM Telefonların modem olarak kullanılmasını sağlamak, EXCEL'in yeteneklerini kullanarak otomatik SMS Mesaj listeleri oluşturmak 
    ve operatörünüzün size tanıdığı ücretsiz SMS kotası dahilinde (tekli/çoklu) ücretsiz SMS gönderimi yapmaktır.
    (Kota aşımlarının operatörünüzce ücrete tabi tutulabileceğini unutmayınız.. !)
  
@@ -14,7 +14,7 @@ Projenin Amacı :
  
  - Oluşturulan bu liste USB modem veya Akıllı telefon aracılığı ile hatta ait ücretsiz SMS kotası kullanılarak otomatik gönderilebilir,
  
- Kullanım sırasında karşılaşacağınız hataları veya başarıları yandex adresime (Telefon marka model belirterek) bildiriniz. 
+ Kullanım sırasında karşılaşacağınız hataları hata kodları ile veya başarıları yandex adresime (Telefon marka model belirterek) bildiriniz. 
  
  Test yapılan ve başarı ile çalışan Cihazlar :
  
