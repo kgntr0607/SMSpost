@@ -1,6 +1,6 @@
-# SMSpost v1.5 Beta
+# SMSpost v1.6.0 Beta
 
-(v1.2Beta'ya gelen ilgiden dolayı, yaptığım yeni düzenlemeler sonrası v1.5 Beta'yı yayınlıyorum. Kolaylıklar dilerim...)
+(v1.2Beta'ya gelen ilgiden dolayı, yaptığım yeni düzenlemeler sonrası v1.6.0 Beta'yı yayınlıyorum.)
 
 Akıllı Cep Telefonu (USB Modem) İle Toplu/Tekli SMS gönderme programı :
 
