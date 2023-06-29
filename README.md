@@ -4,6 +4,11 @@
 
 Akıllı Cep Telefonu (USB Modem) İle Toplu/Tekli SMS gönderme programı :
 
+SİSTEM GEREKSİNİMİ :
+Programın çalıştırılacağı makinada aşağıdaki bileşenler bulunmalıdır.
+- WINDOWS 10 veya daha yeni işletim sistemi.
+- 2013 veya daha yeni sürüm EXCEL uygulaması.
+
 Projenin Amacı :
 
  - Toplu SMS mesajı göndermek için GSM Telefonların modem olarak kullanılmasını sağlamak, EXCEL'in yeteneklerini kullanarak otomatik SMS Mesaj listeleri oluşturmak 
