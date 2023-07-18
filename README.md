@@ -1,3 +1,7 @@
+Ö N E M L İ   N O T : 
+SMSPost'un geliştirilmesi sonlandırıldı. Daha profesyonel olan QuickSMS.exe'yi indiriniz. Link : https://github.com/o-adali/QuickSMS
+
+
 # SMSpost v1.6.0 Beta
 
 (v1.2Beta'ya gelen ilgiden dolayı, yaptığım yeni düzenlemeler sonrası v1.6.0 Beta'yı yayınlıyorum.)
